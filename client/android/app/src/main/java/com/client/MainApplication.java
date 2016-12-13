@@ -1,4 +1,4 @@
-package com.dtom;
+package com.client;
 
 import android.app.Application;
 import android.util.Log;

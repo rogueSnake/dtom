@@ -1,3 +1,3 @@
-rootProject.name = 'dtom'
+rootProject.name = 'client'
 
 include ':app'
